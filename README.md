@@ -1,4 +1,4 @@
-css_training
+CSS training
 ============
 
-CSS training with Boby
+CSS kicks my ASS! Hopefully, my friend Boby will help me to master it! =)
